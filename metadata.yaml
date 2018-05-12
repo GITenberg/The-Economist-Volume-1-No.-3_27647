@@ -1,0 +1,38 @@
+_repo: The-Economist-Volume-1-No.-3_27647
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Wilson, James
+    birthdate: 1805
+    deathdate: 1860
+    gutenberg_agent_id: '32820'
+    url: http://www.gutenberg.org/2009/agents/32820
+    wikipedia: http://en.wikipedia.org/wiki/James_Wilson_(UK_politician)
+description: ''
+gutenberg_bookshelf: The Economist
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics -- Periodicals'
+- !lcsh 'Great Britain -- Commerce -- Periodicals'
+- !lcsh 'Commerce -- Periodicals'
+- !lcsh 'Securities -- Great Britain -- Periodicals'
+- !lcc 'HC'
+- !lcsh 'Economic history -- Periodicals'
+- !lcsh 'Finance -- Periodicals'
+title: The Economist, Volume 1, No. 3
+url: http://www.gutenberg.org/ebooks/27647
