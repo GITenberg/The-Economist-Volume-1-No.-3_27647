@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32820
     wikipedia: http://en.wikipedia.org/wiki/James_Wilson_(UK_politician)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27647#The-Economist-Volume-1-No.-3
 gutenberg_bookshelf: The Economist
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
